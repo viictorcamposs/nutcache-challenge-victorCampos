@@ -51,7 +51,6 @@ Você precisa ter instalado na sua máquina o [Node.js](https://nodejs.org/en/) 
 
 ##### 2. No seu terminal, instale os pacotes necessários.
 
-Yarn
 ```
   # Rode o comando dentro da pasta que você clonou a aplicação
   
@@ -73,7 +72,7 @@ Yarn
   $ npm run dev
 ```
 
-##### 5. Com o servidor da api ligado, inicie o aplicativo em desenvolvimento e aguarde carregar a página.
+##### 4. Com o servidor da api ligado, inicie o aplicativo em desenvolvimento e aguarde carregar a página.
 
 ```
   $ yarn start
